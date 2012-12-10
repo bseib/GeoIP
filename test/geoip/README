@@ -1,0 +1,12 @@
+20121204 bseib
+--------------
+It appears the url is now: http://dev.maxmind.com/geoip/geolite
+
+I just downloaded the latest dat file, which was dated 11/09/2012.
+
+
+20120412 bseib
+--------------
+The binary file GeoLiteCity.dat comes from http://www.maxmind.com/app/geolitecity for free.
+Max Mind says this free database is not so accurate, which may or may not be acceptable
+for your app. Read the notes at their site.
